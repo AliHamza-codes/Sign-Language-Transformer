@@ -1,0 +1,5 @@
+/venv/
+/.venv/
+/MP_Data/
+*.npy
+__pycache__/
